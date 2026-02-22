@@ -76,6 +76,6 @@ This project consists of two HTML pages:
 
 ## 👩‍💻 Author
 
-Ashley  
+Aramish Ashfaq 
 BSCS Student  
 Frontend Development Practice Project
